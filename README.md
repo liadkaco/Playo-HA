@@ -8,8 +8,8 @@ Ensure the following tools are installed on your system:
 
 Getting Started
 1. Clone the Repository
-    git clone https://github.com/your-username/mission-management-app.git
-    cd mission-management-app
+    git clone https://github.com/liadkaco/Playo-HA.git
+    cd Playo-HA
 
 2. Set Up the Backend (Express + TypeScript)
     Navigate to the server directory:
